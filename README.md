@@ -1,5 +1,8 @@
 # BECE
 
+This is the code for the paper "Dispelling the Fake: Social Bot Detection Based on Edge Confidence Evaluation" [pdf](https://wcnux7s65wu6.feishu.cn/file/SxSzbTrgWoKxKsxpje1cRWHlnEd).
+
+Journal Paper [Link](https://ieeexplore.ieee.org/abstract/document/10530431).
 ## Quick Start
 
 0. Prepare the environment
@@ -25,3 +28,19 @@
 
 ## Note
 Experimental results may vary slightly due to different hardware configurations.
+
+## Citation
+
+
+@article{qiao2024dispelling,
+  
+  title={Dispelling the Fake: Social Bot Detection Based on Edge Confidence Evaluation},
+  
+  author={Qiao, Boyu and Zhou, Wei and Li, Kun and Li, Shilong and Hu, Songlin},
+  
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  
+  year={2024},
+  
+  publisher={IEEE}
+}
